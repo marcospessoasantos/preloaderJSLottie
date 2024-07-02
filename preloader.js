@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://marcospessoasantos.github.io/preloaderJSLottie/Animation.json',
+        path: 'https://marcospessoasantos.github.io/preloaderJSLottie/1719923362557.json',
     });
 }
 
@@ -46,4 +46,4 @@ document.addEventListener('DOMContentLoaded', () => {
     hideOverlay(); // Teste sem o setTimeout
 });
 
-window.addEventListener('load', hideOverlay);
+window.addEventListener('load');
