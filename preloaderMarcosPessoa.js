@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://marcospessoasantos.github.io/preloaderJSLottie/comp.json',
+        path: 'https://marcospessoasantos.github.io/preloaderJSLottie/loadingMarcosPessoa.json',
     });
 }
 
